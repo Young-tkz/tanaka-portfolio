@@ -13,7 +13,7 @@ export default function FeaturedProject() {
             transition={{ duration: 0.8 }}
         > <div className="max-w-7xl mx-auto">
 
-            ```
+        
             <motion.div
                 className="mb-10"
                 initial={{ opacity: 0, y: 30 }}
