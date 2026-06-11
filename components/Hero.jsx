@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 export default function Hero() {
     return ( <section className="relative min-h-screen flex items-center overflow-hidden">
 
-        ```
+    
         {/* Background Glow */}
         <div className="hero-glow" />
 
